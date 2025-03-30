@@ -1,3 +1,9 @@
+Note: Hi Sir/Mam.
+Good Morning/Evening,
+I have worked on the requirements given and followed up the step by step and developed all use cases.
+I noticed full project structure did not get uploaded in my previous GiyHub Repo, Please help to review and consider the below git repository      
+### my git repo:- 
+
 For loading webpage 
 Steps to be Follwed:-
 cd client/client-side
